@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon Logo" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amazon_logo_white.svg" alt="Amazon Logo" width="200"/>
 </p>
 
 # Amazon Clone
@@ -20,8 +20,7 @@ A static, single-page Amazon homepage clone built using only **HTML** and **CSS*
 - Footer with useful links  
 - Visual layout closely resembles Amazon’s homepage
 
-> **Note:** This project is for educational and portfolio purposes only.  
-> No backend, interactivity, or e-commerce functionality included.
+> **Note:** This project is for educational and portfolio purposes only.
 
 ## 🛠️ Usage
 
