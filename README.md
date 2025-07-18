@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/jZLwXkN.png" alt="Amazon Logo" width="200"/>
+  <img src="https://www.shutterstock.com/image-vector/amazon-logo-icon-sign-art-design-2270561027" alt="Amazon Logo" width="200"/>
 </p>
 
 # Amazon Clone
