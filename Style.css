@@ -24,7 +24,7 @@
 
 .logo{
     background-size: cover;
-    background-image: url("Amazon_logo4.png");
+    background-image: url("/Photos/Amazon_logo4.png");
     height: 50px;
     width: 112px;
 }
@@ -112,7 +112,7 @@
 }
 
 .logo1{
-    background-image: url("America\ Flag.png");
+    background-image: url("/Photos/America\ Flag.png");
     background-size: cover;
     height: 16px;
     width: 22px;
@@ -218,7 +218,7 @@
 /* Hero=section */
 
 .hero-section{
-    background-image: url(Hero_img.jpg);
+    background-image: url(/Photos/Hero_img.jpg);
     height: 700px;
     background-size: cover;
     display: flex;
@@ -262,7 +262,7 @@
 /* box 1 */
 
 .box1-img{
-    background-image: url(Box-1.jpg);
+    background-image: url(/Photos/Box-1.jpg);
     height: 375px;
     background-size: cover;
     margin-top: 10px;
@@ -279,7 +279,7 @@
 }
 
 .first-img{
-    background-image: url(Box-2\(1\).jpg);
+    background-image: url(/Photos/Box-2\(1\).jpg);
     height: 150px;
     width: 50%;
     background-size: cover;
@@ -288,7 +288,7 @@
 }
 
 .second-img{
-    background-image: url(Box-2\(2\).jpg);
+    background-image: url(/Photos/Box-2\(2\).jpg);
     height: 150px;
     width: 50%;
     background-size: cover;
@@ -302,7 +302,7 @@
 }
 
 .third-img{
-    background-image: url(Box-2\(3\).jpg);
+    background-image: url(/Photos/Box-2\(3\).jpg);
     height: 150px;
     width: 50%;
     background-size: cover;
@@ -310,7 +310,7 @@
 }
 
 .forth-img{
-    background-image: url(Box-2\(4\).jpg);
+    background-image: url(/Photos/Box-2\(4\).jpg);
     height: 150px;
     width: 50%;
     background-size: cover;
