@@ -20,7 +20,7 @@ A static, single-page Amazon homepage clone built using only **HTML** and **CSS*
 - Footer with useful links  
 - Visual layout closely resembles Amazon’s homepage
 
-> **Note:** This project is for educational and portfolio purposes only.
+> **Note:** THIS PAGE WAS MADE AS A PERSONAL EDUCATIONAL PROJECT. This is NOT the official site of the company or brand identified on the page. The creator of this page is NOT affiliated with the company or brand in any way. This page is a personal project made in connection with an educational exercise.
 
 ## 🛠️ Usage
 
